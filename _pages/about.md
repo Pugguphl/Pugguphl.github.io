@@ -29,7 +29,7 @@ Feel free to connect with me or explore my work further! 😊
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Heritage Science</div><img src='images/Pottery Evolution Pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Heritage Science</div><img src='images/artifacts span all peroids_Page1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China]
