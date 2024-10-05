@@ -44,8 +44,7 @@ patterns of a given pottery type within their specified chronological divisions.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/PairingNet Pipeline.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China]
-(https://arxiv.org/pdf/2312.08704)
+[Pottery Evolution Pattern Discovery based on Deep Learning: Case Study of Miaozigou Culture in China](https://arxiv.org/pdf/2312.08704)
 Rixin Zhou, Ding Xia, Yi Zhang, **Honglin Pang**, Xi Yang, Chuntao Li
 
 - We propose a neural network that can effectively utilize neighbor textures with contour shape information to funda- mentally improve performance.
