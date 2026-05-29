@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Honglin Pang"
-description              : "School of Artificial Intelligence, Jilin University "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Ph.D. student, Jilin University × Shenzhen Loop Area Institute (SLAI)"
+repository               : "Pugguphl/Pugguphl.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Honglin Pang"
   avatar           : "images/profile2.jpg"
-  bio              : 
-  location         : "Jilin, China"
+  bio              :
+  location         : "Changchun / Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2l29RlcAAAAJ"
