@@ -24,7 +24,8 @@ My research interests lie in Computer Vision, Multimodal AI, and Digital Humanit
 Feel free to connect with me or explore my work further! 😊
 
 # 🔥 News
-- *2025*: &nbsp;🎉🎉 I was admitted as a Ph.D. student under the joint training program between the College of Artificial Intelligence, Jilin University and Shenzhen Loop Area Institute (SLAI).
+- *2025.09*: &nbsp;🎉🎉 I was admitted as a Ph.D. student under the joint training program between the College of Artificial Intelligence, Jilin University and Shenzhen Loop Area Institute (SLAI).
+- *2026*: &nbsp;🎉🎉 One paper is accepted by ACL 2026.
 - *2025.06*: &nbsp;🎉🎉 I received my M.S. degree and was honored as an Outstanding Master's Graduate of Jilin University (Class of 2025).
 - *2025.06*: &nbsp;🎉🎉 One paper is published in npj Heritage Science.
 - *2024.12*: &nbsp;🎉🎉 Two preprints on archaeological catalog collection and open-world bronze classification are released on arXiv.
@@ -33,14 +34,14 @@ Feel free to connect with me or explore my work further! 😊
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/oracle-bone-script-interpretation.png' alt="Specializing Large Models for Oracle Bone Script Interpretation" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/oracle-bone-script-interpretation.png' alt="Specializing Large Models for Oracle Bone Script Interpretation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation](https://arxiv.org/abs/2604.06711)
 
 Jiahao Zhang, Ruihang Li, **Honglin Pang**, Ding Xia, Zeyu Zhu, Qitong Zhang, Chuntao Li, Xi Yang
 
-- We explore multimodal knowledge augmentation for specializing large models in oracle bone script interpretation.
+- Accepted by ACL 2026. We explore multimodal knowledge augmentation for specializing large models in oracle bone script interpretation.
 </div>
 </div>
 
@@ -104,7 +105,7 @@ Rixin Zhou, Ding Xia, Yi Zhang, **Honglin Pang**, Xi Yang, Chuntao Li
 - *2022.09* 2022-2023 Postgraduate Academic Scholarship of Jilin University
 
 # 📖 Educations
-- *2025 - now*, Ph.D. student, jointly trained by the College of Artificial Intelligence, Jilin University and Shenzhen Loop Area Institute (SLAI)
+- *2025.09 - now*, Ph.D. student, jointly trained by the College of Artificial Intelligence, Jilin University and Shenzhen Loop Area Institute (SLAI)
 - *2022.09 - 2025.06*, M.S. in Computer Science, College of Artificial Intelligence, Jilin University
 - *2018.09 - 2022.06*, B.E. in Software Engineering, College of Software, Jilin University
 
