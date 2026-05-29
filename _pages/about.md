@@ -33,7 +33,7 @@ Feel free to connect with me or explore my work further! 😊
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/oracle-bone-script-interpretation.png' alt="Specializing Large Models for Oracle Bone Script Interpretation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation](https://arxiv.org/abs/2604.06711)
@@ -44,7 +44,7 @@ Jiahao Zhang, Ruihang Li, **Honglin Pang**, Ding Xia, Zeyu Zhu, Qitong Zhang, Ch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Heritage Science 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Heritage Science 2025</div><img src='images/oracle-bone-inscriptions-detection.png' alt="Clustering-based Feature Representation Learning for Oracle Bone Inscriptions Detection" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Clustering-based Feature Representation Learning for Oracle Bone Inscriptions Detection](https://doi.org/10.1038/s40494-025-01850-4)
@@ -55,7 +55,7 @@ Yizhi Tao, Xinyi Fu, **Honglin Pang**, Xi Yang, Chuntao Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/archaeological-catalog-collection.png' alt="An Archaeological Catalog Collection Method based on Large Vision-Language Models" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Archaeological Catalog Collection Method based on Large Vision-Language Models](https://arxiv.org/abs/2412.20088)
@@ -66,7 +66,7 @@ Yizhi Tao, Xinyi Fu, **Honglin Pang**, Xi Yang, Chuntao Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/shiftedbronzes-overview.png' alt="ShiftedBronzes benchmark overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ShiftedBronzes: Benchmarking and Analysis of Domain Fine-Grained Classification in Open-World Settings](https://arxiv.org/abs/2412.12683)
