@@ -24,8 +24,8 @@ My research interests lie in Computer Vision, Multimodal AI, and Digital Humanit
 Feel free to connect with me or explore my work further! 😊
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by ACL 2026.
 - *2025.09*: &nbsp;🎉🎉 I was admitted as a Ph.D. student under the joint training program between the College of Artificial Intelligence, Jilin University and Shenzhen Loop Area Institute (SLAI).
-- *2026*: &nbsp;🎉🎉 One paper is accepted by ACL 2026.
 - *2025.06*: &nbsp;🎉🎉 I received my M.S. degree and was honored as an Outstanding Master's Graduate of Jilin University (Class of 2025).
 - *2025.06*: &nbsp;🎉🎉 One paper is published in npj Heritage Science.
 - *2024.12*: &nbsp;🎉🎉 Two preprints on archaeological catalog collection and open-world bronze classification are released on arXiv.
